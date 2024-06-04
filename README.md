@@ -12,6 +12,7 @@ Software engineering is the systematic application of engineering approaches to 
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+
 The methodical application of engineering techniques to the software development process is known as software engineering. It entails the design, development, maintenance, and testing of software systems using structured processes, tools, and best practices. On the other hand, traditional programming mostly concentrates on creating code to carry out particular capabilities without always adhering to an organized engineering process. Software engineering is a more comprehensive field that includes requirements analysis, design, testing, and maintenance to guarantee the software's dependability, effectiveness, and maintainability throughout time.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
