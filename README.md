@@ -50,28 +50,28 @@ Explain the concept of modularity in software design. How does it improve mainta
 
 Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-# Unit Testing:
+* Unit Testing:
 Testing individual components or functions in isolation to ensure they work as expected.
-# Integration Testing:
+* Integration Testing:
 Testing the interaction between integrated units/modules to ensure they work together correctly.
-# System Testing:
+* System Testing:
 Testing the complete system as a whole to verify it meets the specified requirements.
-# Acceptance Testing:
+* Acceptance Testing:
 Testing conducted to determine if the system meets the acceptance criteria and is ready for delivery to the customer.
 
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
-# Version control systems (VCS) are tools that help manage changes to source code over time. They allow multiple developers to collaborate, track revisions, and revert to previous versions if needed. Importance includes:
+* Version control systems (VCS) are tools that help manage changes to source code over time. They allow multiple developers to collaborate, track revisions, and revert to previous versions if needed. Importance includes:
 
-# Collaboration:
+* Collaboration:
 Enables multiple developers to work on the same project simultaneously.
-# History Tracking: 
+* History Tracking: 
 Keeps a history of changes, making it easy to track and understand the evolution of the codebase.
-# Backup: 
+* Backup: 
 Provides a backup of the code, reducing the risk of data loss.
 
-# Examples:
+* Examples:
 
 Git: Distributed VCS, supports branching and merging, widely used (GitHub, GitLab).
 SVN (Subversion): Centralized VCS, known for its simplicity and reliability.
@@ -82,18 +82,18 @@ Discuss the role of a software project manager. What are some key responsibiliti
 
 A software project manager oversees the planning, execution, and delivery of software projects. Key responsibilities include:
 
-# Planning: 
+* Planning: 
 Defining project scope, timelines, and resources.
-# Team Management: 
+* Team Management: 
 Leading and coordinating the project team.
-# Budgeting: 
+* Budgeting: 
 Managing the project budget and ensuring cost-efficiency.
-# Risk Management: 
+* Risk Management: 
 Identifying and mitigating risks.
-# Communication: 
+* Communication: 
 Keeping stakeholders informed about project progress.
 
-# Challenges:
+* Challenges:
 
 Scope Creep: Managing changes in project scope.
 Resource Allocation: Ensuring adequate and skilled resources are available.
